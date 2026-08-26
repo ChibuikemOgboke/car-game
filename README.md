@@ -39,7 +39,7 @@ This is a fun boredom project, and contributions are super appreciated! Whether 
 
 ### How to help:
 1. **Fork** this repository.
-2. Create a new branch for your feature (`git checkout -b feature/CoolNewFeature`).
+2. Create a new branch for your feature.
 3. Commit your changes and push them to your fork.
 4. Open a **Pull Request** explaining what you changed!
 
