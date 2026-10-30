@@ -2,11 +2,17 @@
 
 I made this game when I was bored to practice using Python and Pygame! You can check out the source code, run the raw Python files, or download the pre-built Windows version to play right away.
 
-## 🎮 How to Play
-* **Drive:** Use the `W`, `A`, `S`, `D` keys to steer the car in all directions.
 * **Objective:** Collect **Coins** (+1 point) and **Gems** (+5 points) to boost your high score!
 * **Survive:** Watch your timer! Collect **Jerry Cans** to add +8 seconds to your clock.
 * **Restart:** If you run out of time, press `R` on the Game Over screen to play again.
+
+## 🎮 Controls for the the windows version and python version
+* **Drive:** Use the `W`, `A`, `S`, `D` keys to steer the car in all directions.
+* Use the escape key to pause the game.
+
+## 🎮 Controls for the the PSP version
+* **Drive** use the D-pad or analog stick to control the car.
+* Use the start button to pause the game.
 
 ## 🚀 Running the Game
 
@@ -44,6 +50,9 @@ This is a fun boredom project, and contributions are super appreciated! Whether 
 4. Open a **Pull Request** explaining what you changed!
 
 Check out the **Future Todo List** above if you need some ideas on what to build next!
+
+##NOTE##
+The PSP version has the most features right now but the estra features will be added to the plain python version and the windows build soon enough.
 
 
 ## ⚖️ License
