@@ -1,1 +1,0 @@
-Car Collector v2 starting. base dir: 'umd0:/'
